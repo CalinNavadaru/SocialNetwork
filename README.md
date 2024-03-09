@@ -1,0 +1,1 @@
+A project carried out during the 3rd semester at the UBB Faculty of Mathematics and Informatics. The application is a social network where you can create fictitious users, create friends and send messages between two users. 
